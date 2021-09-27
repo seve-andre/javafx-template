@@ -1,4 +1,4 @@
-package projectNameAbbreviation;
+package projectAbbreviation;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
