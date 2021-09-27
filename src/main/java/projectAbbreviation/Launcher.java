@@ -1,4 +1,4 @@
-package projectNameAbbreviation;
+package projectAbbreviation;
 
 public final class Launcher {
 
