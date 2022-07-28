@@ -43,8 +43,6 @@ dependencies {
     // JUnit API and testing engine
     testImplementation("org.junit.jupiter:junit-jupiter-api:$jUnitVersion")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:$jUnitVersion")
-    
-    implementation("com.google.code.gson:gson:2.8.6")
 }
 
 tasks.withType<JavaCompile> {
