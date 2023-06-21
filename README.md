@@ -18,7 +18,7 @@ Assuming:
   // AFTER
   application {
     // Define the main class for the application
-    mainClass.set("altsim.Launcher")
+    mainClass.set("com.mitch.altsim.Launcher")
   }
   ```
 - in [settings.gradle.kts](https://github.com/seve-andre/javafx-template/blob/main/settings.gradle.kts):
