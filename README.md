@@ -1,4 +1,2 @@
-<h1>JavaFX sample project</h1>
-<p>
-  This repository can be cloned to be ready to use as a JavaFX sample project
-</p>
+# JavaFX template
+Click on [![Use this template](https://img.shields.io/badge/-Use%20this%20template-%23347d39)](https://github.com/seve-andre/javafx-template/generate) to create your own repo
