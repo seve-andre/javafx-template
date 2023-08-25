@@ -1,5 +1,7 @@
 # JavaFX template
-Click on [![Use this template](https://img.shields.io/badge/-Use%20this%20template-%23347d39)](https://github.com/seve-andre/javafx-template/generate) to create your own repo
+To create you own repo, click on:
+
+[![Use this template](https://user-images.githubusercontent.com/38083522/226207439-1195c8c4-e3e2-4db0-8f39-7277b08872be.png)](https://github.com/seve-andre/compose-template/generate)
 
 ## Instructions
 Assuming:
